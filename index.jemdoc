@@ -1,0 +1,40 @@
+# jemdoc: nofooter
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myMiddle.css}
+# jemdoc: title{Qian JIN - Zhejiang University}
+#
+~~~
+{}{img_left}{img/WechatIMG75.jpg}{}{180}{}{}
+= Qian JIN
+
+Qian Jin, Ph.D. Student  \n 
+[https://ic.zju.edu.cn/ College of Integrated Circuits] \n  
+[https://www.zju.edu.cn/ Zhejiang University] \n  
+*Email*: jinqian2022@zju.edu.cn  \n
+
+{{<a href="https://www.linkedin.com/in/jinqian111/" target="<u>blank"><img src="img/linkedin.png" height=30></a>}}  {{<a href="https://orcid.org/0009-0009-4414-232X" target="<u>blank"><img src="img/orcid.png" height=30></a>}}
+
+~~~
+
+
+== Biography
+I am a Ph.D. candidate at the College of Integrated Circuits, Zhejiang University, under the co-supervision of [https://person.zju.edu.cn/en/chengzhuo Prof. Cheng Zhuo] and [https://qisunchn.top/ Prof. Qi Sun] since Fall 2022. Prior to that, I received my B.Eng. in Electronic Science and Technology from Wuhan University of Technology.
+
+== Research Interest
+- Machine Learning in EDA  
+- Large Language Models (LLMs)
+
+== Publications
+=== Conference papers
+- \[C5\] *Qian Jin*, Yuqi Jiang, Xudong Lu, Yumeng Liu, Yining Chen, Dawei Gao, Qi Sun, Cheng Zhuo, "SEM-CLIP: Precise Few-Shot Learning for Nanoscale Defect Detection in Scanning Electron Microscope Image", ACM/IEEE International Conference on Computer-Aided Design (*ICCAD*), 2024.
+- \[C4\] *Qian Jin*, Yibo Qiao, Yining Chen, Cheng Zhuo, Qi Sun, "A SelectiveNet-Based Method for Defect Classification in Semiconductor Manufacturing", Conference of Science and Technology for Integrated Circuits (*CSTIC*), 2024.
+- \[C3\] Yuqi Jiang, *Qian Jin*, Xudong Lu, Qi Sun, Cheng Zhuo, "FabSage: A Large Multimodal Model for IC Defect Detection, Analysis, and Knowledge Querying", IEEE International Workshop on LLM-Aided Design (*LAD*), 2024.
+- \[C2\] Yuqi Jiang, Xudong Lu, *Qian Jin*, Qi Sun, Hanming Wu, Cheng Zhuo, "FabGPT: An Efficient Large Multimodal Model for Complex Wafer Defect Knowledge Queries", ACM/IEEE International Conference on Computer-Aided Design (*ICCAD*), 2024.
+- \[C1\] Yibo Qiao, Weiping Xie, Shunyuan Lou, *Qian Jin*, Lichao Zeng, Yining Chen, Qi Sun, Cheng Zhuo, "Minimizing Labeling, Maximizing Performance: A Novel Approach to Nanoscale Scanning Electron Microscope (SEM) Defect Segmentation", ACM/IEEE Design Automation Conference (*DAC*), 2024.
+
+== Awards
+- Third Prize in China postgraduate IC innovation competition, China, 2024
+- Jevarts Scholarship, ZJU, 2023
+- Excellent Graduate Student, ZJU, 2023
+- Qiushi PhD Fellowship, ZJU, 2022
+- National Scholarship, WUT, 2019, 2021
